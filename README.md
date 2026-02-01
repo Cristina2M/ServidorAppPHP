@@ -200,6 +200,6 @@ http://localhost:8080
 
 ---
 
-## ✍️ Diana Radu
+## ✍️ Cristina Moreno
 
 Proyecto realizado como ejercicio práctico de despliegue de aplicaciones web con Docker y PHP.
