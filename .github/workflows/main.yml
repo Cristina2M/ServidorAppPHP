@@ -67,3 +67,5 @@ jobs:
             
             # Levantamos los nuevos forzando la reconstrucción
             sudo docker-compose up --build -d
+
+
