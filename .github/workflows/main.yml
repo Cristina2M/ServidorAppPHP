@@ -67,12 +67,3 @@ jobs:
             
             # Levantamos los nuevos forzando la reconstrucción
             sudo docker-compose up --build -d
-
-
-
-
-
-            echo "🚀 Lanzando contenedores"
-            cd ~/app
-            docker-compose down || true
-            docker-compose up --build -d
